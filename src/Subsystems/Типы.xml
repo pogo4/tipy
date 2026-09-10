@@ -17,7 +17,7 @@
 			<Picture/>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ТипыМассив</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.Массивы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.Массивы_</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">ec702b7b-6992-4edb-ad4b-ac9aed630a7d</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.тест</xr:Item>
 			</Content>

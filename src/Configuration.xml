@@ -253,9 +253,9 @@
 			<Subsystem>Типы</Subsystem>
 			<CommonModule>Даты</CommonModule>
 			<CommonModule>ДеревьяЗначений</CommonModule>
-			<CommonModule>Массивы</CommonModule>
+			<CommonModule>Массивы_</CommonModule>
 			<CommonModule>Соответствия</CommonModule>
-			<CommonModule>Строки</CommonModule>
+			<CommonModule>Строки_</CommonModule>
 			<CommonModule>Структуры</CommonModule>
 			<CommonModule>ТаблицыЗначений</CommonModule>
 			<CommonModule>Типы_</CommonModule>

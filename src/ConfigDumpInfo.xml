@@ -12,12 +12,12 @@
 		<Metadata name="CommonModule.Даты.Module" id="bbea64d3-d374-4741-92d7-1eef90c48535.0" configVersion="ed132dfeb4bc884aa61582f1f49e7ff000000000"/>
 		<Metadata name="CommonModule.ДеревьяЗначений" id="a877c487-a9ef-4ae4-8d6e-b34019cc8328" configVersion="180c538fbedc0a47b0dc24c161562a6a00000000"/>
 		<Metadata name="CommonModule.ДеревьяЗначений.Module" id="a877c487-a9ef-4ae4-8d6e-b34019cc8328.0" configVersion="96389fa2b5b02e4e887ed6ee044e00d200000000"/>
-		<Metadata name="CommonModule.Массивы" id="aa4f8242-349d-4727-a552-ad5176e61363" configVersion="c281cee94ab45b4f92ec628256df4f7a00000000"/>
-		<Metadata name="CommonModule.Массивы.Module" id="aa4f8242-349d-4727-a552-ad5176e61363.0" configVersion="0f0bb21740101046bde45b2d0d2fb45800000000"/>
+		<Metadata name="CommonModule.Массивы_" id="aa4f8242-349d-4727-a552-ad5176e61363" configVersion="c281cee94ab45b4f92ec628256df4f7a00000000"/>
+		<Metadata name="CommonModule.Массивы_.Module" id="aa4f8242-349d-4727-a552-ad5176e61363.0" configVersion="0f0bb21740101046bde45b2d0d2fb45800000000"/>
 		<Metadata name="CommonModule.Соответствия" id="e852a401-e8b4-455a-941e-9da6b503b096" configVersion="6bf9f4d71acaff439c391f56b371af0200000000"/>
 		<Metadata name="CommonModule.Соответствия.Module" id="e852a401-e8b4-455a-941e-9da6b503b096.0" configVersion="a7dbf44273f8314c9f3be135349c042100000000"/>
-		<Metadata name="CommonModule.Строки" id="ed29d684-f460-4655-8903-95b06e3762da" configVersion="99d54755419ab94f9b41b05b902b801000000000"/>
-		<Metadata name="CommonModule.Строки.Module" id="ed29d684-f460-4655-8903-95b06e3762da.0" configVersion="7309e5b4c973e84a87a15b04a2c24f8400000000"/>
+		<Metadata name="CommonModule.Строки_" id="ed29d684-f460-4655-8903-95b06e3762da" configVersion="99d54755419ab94f9b41b05b902b801000000000"/>
+		<Metadata name="CommonModule.Строки_.Module" id="ed29d684-f460-4655-8903-95b06e3762da.0" configVersion="7309e5b4c973e84a87a15b04a2c24f8400000000"/>
 		<Metadata name="CommonModule.Структуры" id="e5063bd9-ab7d-4e8d-bb01-abc29d60cd6c" configVersion="adad24ea0000f046a7f76e734515a59a00000000"/>
 		<Metadata name="CommonModule.ТаблицыЗначений" id="0e51d6c1-768b-4f7d-bb3a-aab460157776" configVersion="da241a022c2b1546949b7ec6505ac16e00000000"/>
 		<Metadata name="CommonModule.ТаблицыЗначений.Module" id="0e51d6c1-768b-4f7d-bb3a-aab460157776.0" configVersion="3db69397906e8e40a1bd74381b037eec00000000"/>
