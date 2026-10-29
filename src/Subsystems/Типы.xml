@@ -16,10 +16,10 @@
 			<Explanation/>
 			<Picture/>
 			<Content>
-				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ТипыМассив</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">e34acc1b-8ac8-45ad-97e0-fe25fd5825c8</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonModule.Массивы_</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">ec702b7b-6992-4edb-ad4b-ac9aed630a7d</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.тест</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">f0ccaebd-afbc-48aa-b5d3-8ed1c06247fd</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

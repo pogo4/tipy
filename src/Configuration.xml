@@ -260,9 +260,6 @@
 			<CommonModule>ТаблицыЗначений</CommonModule>
 			<CommonModule>Типы_</CommonModule>
 			<CommonModule>Числа</CommonModule>
-			<Catalog>Справочник1</Catalog>
-			<DataProcessor>ТипыМассив</DataProcessor>
-			<DataProcessor>тест</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
