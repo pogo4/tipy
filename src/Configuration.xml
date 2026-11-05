@@ -242,7 +242,7 @@
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
 			<ModalityUseMode>DontUse</ModalityUseMode>
-			<SynchronousPlatformExtensionAndAddInCallUseMode>DontUse</SynchronousPlatformExtensionAndAddInCallUseMode>
+			<SynchronousPlatformExtensionAndAddInCallUseMode>Use</SynchronousPlatformExtensionAndAddInCallUseMode>
 			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
 			<DatabaseTablespacesUseMode>DontUse</DatabaseTablespacesUseMode>
 			<CompatibilityMode>Version8_3_27</CompatibilityMode>
@@ -251,9 +251,9 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Типы</Subsystem>
-			<CommonModule>Даты</CommonModule>
+			<CommonModule>ДатаВремя</CommonModule>
 			<CommonModule>ДеревьяЗначений</CommonModule>
-			<CommonModule>Массивы_</CommonModule>
+			<CommonModule>Массивы</CommonModule>
 			<CommonModule>Соответствия</CommonModule>
 			<CommonModule>Строки_</CommonModule>
 			<CommonModule>Структуры</CommonModule>
