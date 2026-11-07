@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
 	<ConfigVersions>
-		<Metadata name="CommonModule.ДатаВремя" id="bbea64d3-d374-4741-92d7-1eef90c48535" configVersion="333d3e4f27761047ab6db3312efc9d4c00000000"/>
-		<Metadata name="CommonModule.ДатаВремя.Module" id="bbea64d3-d374-4741-92d7-1eef90c48535.0" configVersion="d134ceecac76d84cad72c35e63e32b1000000000"/>
+		<Metadata name="CommonModule.ДатаВремя" id="bbea64d3-d374-4741-92d7-1eef90c48535" configVersion="b5db71c344f93a4abed93ec380d1243a00000000"/>
+		<Metadata name="CommonModule.ДатаВремя.Module" id="bbea64d3-d374-4741-92d7-1eef90c48535.0" configVersion="247ef4fb92553d49bcf29dbbd4750db500000000"/>
 		<Metadata name="CommonModule.ДеревьяЗначений" id="a877c487-a9ef-4ae4-8d6e-b34019cc8328" configVersion="67598e2de125e44c82bf6d2f34db09f600000000"/>
-		<Metadata name="CommonModule.Массивы" id="aa4f8242-349d-4727-a552-ad5176e61363" configVersion="d9099c693eb04b4e8b7b4eac0421ded100000000"/>
-		<Metadata name="CommonModule.Массивы.Module" id="aa4f8242-349d-4727-a552-ad5176e61363.0" configVersion="206034a972fc514e86e2f09e06564f2e00000000"/>
+		<Metadata name="CommonModule.Массивы" id="aa4f8242-349d-4727-a552-ad5176e61363" configVersion="34a5db42b6d2704c84dd8cb1136b098600000000"/>
+		<Metadata name="CommonModule.Массивы.Module" id="aa4f8242-349d-4727-a552-ad5176e61363.0" configVersion="8bd3308786d2f042b20d5690edc188ba00000000"/>
 		<Metadata name="CommonModule.Соответствия" id="e852a401-e8b4-455a-941e-9da6b503b096" configVersion="091e35d18050ae4b9513a18d6d1d934800000000"/>
 		<Metadata name="CommonModule.Строки_" id="ed29d684-f460-4655-8903-95b06e3762da" configVersion="358c07aa31c8d745b5a726cf622cb02100000000"/>
 		<Metadata name="CommonModule.Строки_.Module" id="ed29d684-f460-4655-8903-95b06e3762da.0" configVersion="b1844e8b02b8e94e83c35100268d49b400000000"/>
